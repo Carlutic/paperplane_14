@@ -11,8 +11,7 @@
   "directory": "chars/Nicole",
   "image": "Covers/Nicole.png",
   "pmx": "妮可 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191119,
@@ -26,8 +25,7 @@
   "directory": "chars/Nicole",
   "image": "Covers/Nicole.png",
   "pmx": "武器.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191120,
@@ -41,8 +39,7 @@
   "directory": "chars/Zhu1",
   "image": "Covers/Zhu1.png",
   "pmx": "Zhu Yuan R18 ik arms.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191121,
@@ -56,8 +53,7 @@
   "directory": "chars/Ganyu",
   "image": "Covers/Ganyu.png",
   "pmx": "Ganyu_Swimwear_ShortHair_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191122,
@@ -71,8 +67,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "银狼R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191123,
@@ -86,8 +81,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "卡芙卡R18原版鞋子.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191124,
@@ -101,8 +95,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "卡芙卡R18裸体.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191125,
@@ -116,8 +109,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "卡芙卡R18裸足.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191126,
@@ -131,8 +123,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "子弹.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191127,
@@ -146,8 +137,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "枪白.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191128,
@@ -161,8 +151,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "枪黑.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191129,
@@ -176,8 +165,7 @@
   "directory": "chars/Ganyu1",
   "image": "Covers/Ganyu1.png",
   "pmx": "Ganyu_Barefoot_HiPoly_1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191130,
@@ -191,8 +179,7 @@
   "directory": "chars/Ganyu1",
   "image": "Covers/Ganyu1.png",
   "pmx": "Ganyu_Barefoot_ShortHair_HiPoly_1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191131,
@@ -206,8 +193,7 @@
   "directory": "chars/Ganyu1",
   "image": "Covers/Ganyu1.png",
   "pmx": "Ganyu_BaseBody_HiPoly_1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191132,
@@ -221,8 +207,7 @@
   "directory": "chars/Ganyu1",
   "image": "Covers/Ganyu1.png",
   "pmx": "Ganyu_BaseBody_ShortHair_HiPoly_1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191133,
@@ -236,8 +221,7 @@
   "directory": "chars/Ganyu1",
   "image": "Covers/Ganyu1.png",
   "pmx": "Ganyu_HiPoly_1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191134,
@@ -251,8 +235,7 @@
   "directory": "chars/Ganyu1",
   "image": "Covers/Ganyu1.png",
   "pmx": "Ganyu_ShortHair_HiPoly_1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191135,
@@ -266,8 +249,7 @@
   "directory": "chars/char11",
   "image": "Covers/char11.png",
   "pmx": "海瑟音.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191136,
@@ -281,8 +263,7 @@
   "directory": "chars/mona",
   "image": "Covers/mona.png",
   "pmx": "Mona R18 Summer .pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  },
  {
   "id": 191137,
@@ -296,7 +277,6 @@
   "directory": "chars/mualani",
   "image": "Covers/mualani.png",
   "pmx": "mualani normal_1.10_oldBreast.pmx",
-  "base": "https://carlutic.github.io/paperplane_14/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_14/"
  }
 ]
